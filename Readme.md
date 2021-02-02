@@ -69,3 +69,8 @@ We use the following parameters to stream:
 
 - -f dash
     Dash format
+
+####TODO:
+- Create Dash player using dashjs
+- Update ffmpeg docker to use low latency Hls
+- Update player to support Hls using hlsjs? Review this.
